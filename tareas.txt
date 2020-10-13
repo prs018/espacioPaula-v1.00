@@ -1,0 +1,6 @@
+-- usar import con los archivos de javascript de manera que en el body
+solo figure index.js
+-- colocar icono en pestaña
+-- pedir cambio de lorem para cada seccion
+-- pedir videos en youtube de cada Clase
+  

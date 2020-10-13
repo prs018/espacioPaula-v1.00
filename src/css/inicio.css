@@ -1,0 +1,46 @@
+
+.inicio {
+  width: 100%;
+  height: 100vh;
+  background-image: url('../img/section/inicio/fondo-1.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inicio__container {
+  text-align: center;
+}
+
+.inicio__title {
+  font-size: 3rem;
+}
+
+.inicio__description {
+  margin-top: 2rem;
+  font-size: 1.1rem;
+}
+
+.inicio__button {
+  margin-top: 2rem;
+  color: white;
+  width: 15rem;
+  height: 3rem;
+  border-radius: 25px;
+  background-color: transparent;
+  border: 1px solid #ccc;
+  font-size: 1.1rem;
+}
+
+ .inicio__button:hover {
+   background-color: rgb(255,0,250);
+   border: none;
+}
+
+
+@media (max-width: 600px) {
+
+}
